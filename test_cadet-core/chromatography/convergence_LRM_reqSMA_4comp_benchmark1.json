@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "source": "CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "info": "CADET-Reference convergence data for the CADET-Database model configuration: LRM_reqSMA_4comp_benchmark1 whose source is CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "name": "convergence_LRM_reqSMA_4comp_benchmark1",
+        "cadet_commit_last_run": "21c6537234e3536695363afa7be1e4ac8aab4117"
+    },
+    "convergence": {
+        "DG_P3": {
+            "outlet": {
+                "$N_d$": [
+                    "3",
+                    "3"
+                ],
+                "$N_e^z$": [
+                    4.0,
+                    8.0
+                ],
+                "Max. error": [
+                    0.659951295488014,
+                    0.09836135538208168
+                ],
+                "Max. EOC": [
+                    0.0,
+                    2.746196037300347
+                ],
+                "$L^1$ error": [
+                    49.17246114617408,
+                    8.60667697108019
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    2.514322338541397
+                ],
+                "Sim. time": [
+                    1.153545,
+                    3.1161641
+                ],
+                "Min. value": [
+                    -0.01832303994904778,
+                    -0.003905853130965853
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    64.0,
+                    128.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            }
+        }
+    }
+}

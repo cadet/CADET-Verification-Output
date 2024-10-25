@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "source": "CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "info": "CADET-Reference convergence data for the CADET-Database model configuration: LRMP_reqSMA_4comp_sensbenchmark1 whose source is CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "name": "convergence_LRMP_reqSMA_4comp_sensbenchmark1",
+        "cadet_commit_last_run": "21c6537234e3536695363afa7be1e4ac8aab4117"
+    },
+    "convergence": {
+        "FV": {
+            "outlet": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    3.6056805693175065,
+                    0.8748068167334608
+                ],
+                "Max. EOC": [
+                    0.0,
+                    2.0432352252849637
+                ],
+                "$L^1$ error": [
+                    204.2875222821555,
+                    43.88773049080857
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    2.2187115150826715
+                ],
+                "Sim. time": [
+                    2.0091228,
+                    4.5455927
+                ],
+                "Min. value": [
+                    -7.428943645395244e-08,
+                    -3.257961002794661e-10
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_COL_DISPERSION": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    17266748.651576098,
+                    6315320.450891532
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.4510686013588587
+                ],
+                "$L^1$ error": [
+                    849947941.7222612,
+                    262172970.0868179
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.6968555286111013
+                ],
+                "Sim. time": [
+                    2.0091228,
+                    4.5455927
+                ],
+                "Min. value": [
+                    -10007904.052260691,
+                    -18688421.721960716
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_FILM_DIFFUSION": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    282851.0996378087,
+                    84965.4266017534
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.7350949629941255
+                ],
+                "$L^1$ error": [
+                    13821989.192298206,
+                    3680446.0231744684
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.9090127379493003
+                ],
+                "Sim. time": [
+                    2.0091228,
+                    4.5455927
+                ],
+                "Min. value": [
+                    -10007904.052260691,
+                    -18688421.721960716
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_SMA_KA": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    0.00352797210872558,
+                    0.0009953743190075867
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.8255280847603974
+                ],
+                "$L^1$ error": [
+                    0.8325597140472463,
+                    0.19822293870246188
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    2.0704298275881614
+                ],
+                "Sim. time": [
+                    2.0091228,
+                    4.5455927
+                ],
+                "Min. value": [
+                    -10007904.052260691,
+                    -18688421.721960716
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            }
+        }
+    }
+}

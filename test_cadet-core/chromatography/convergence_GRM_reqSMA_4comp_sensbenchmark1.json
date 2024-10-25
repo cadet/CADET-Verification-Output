@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "source": "CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "info": "CADET-Reference convergence data for the CADET-Database model configuration: GRM_reqSMA_4comp_sensbenchmark1 whose source is CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "name": "convergence_GRM_reqSMA_4comp_sensbenchmark1",
+        "cadet_commit_last_run": "21c6537234e3536695363afa7be1e4ac8aab4117"
+    },
+    "convergence": {
+        "FV": {
+            "outlet": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "$N_e^p$": [
+                    1.0,
+                    2.0
+                ],
+                "Max. error": [
+                    3.8634120120055826,
+                    0.9493686472619984
+                ],
+                "Max. EOC": [
+                    0.0,
+                    2.0248352304928003
+                ],
+                "$L^1$ error": [
+                    242.57082899658218,
+                    59.52314652205486
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    2.0268833681917733
+                ],
+                "Sim. time": [
+                    0.9278984,
+                    3.4038317
+                ],
+                "Min. value": [
+                    -4.5194520311470215e-08,
+                    -9.019394721884937e-08
+                ],
+                "DoF": [
+                    132.0,
+                    388.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_COL_DISPERSION": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "$N_e^p$": [
+                    1.0,
+                    2.0
+                ],
+                "Max. error": [
+                    16663835.30682552,
+                    6167466.753742602
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.4339705473299262
+                ],
+                "$L^1$ error": [
+                    812737360.2257643,
+                    277252313.2838062
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.5515897164349712
+                ],
+                "Sim. time": [
+                    0.9278984,
+                    3.4038317
+                ],
+                "Min. value": [
+                    -8975940.609139048,
+                    -16876587.53566852
+                ],
+                "DoF": [
+                    132.0,
+                    388.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_PAR_DIFFUSION": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "$N_e^p$": [
+                    1.0,
+                    2.0
+                ],
+                "Max. error": [
+                    486363556.3662786,
+                    165999965.28401005
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.5508521906107664
+                ],
+                "$L^1$ error": [
+                    23524815638.667206,
+                    7244249330.411215
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.6992753102568958
+                ],
+                "Sim. time": [
+                    0.9278984,
+                    3.4038317
+                ],
+                "Min. value": [
+                    -8975940.609139048,
+                    -16876587.53566852
+                ],
+                "DoF": [
+                    132.0,
+                    388.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            },
+            "sens_SMA_KA": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "$N_e^p$": [
+                    1.0,
+                    2.0
+                ],
+                "Max. error": [
+                    0.00205695262450564,
+                    0.0006657407027457259
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.6274762852093019
+                ],
+                "$L^1$ error": [
+                    0.9281718213771228,
+                    0.29330783226403245
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.6619763027839656
+                ],
+                "Sim. time": [
+                    0.9278984,
+                    3.4038317
+                ],
+                "Min. value": [
+                    -8975940.609139048,
+                    -16876587.53566852
+                ],
+                "DoF": [
+                    132.0,
+                    388.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "21c6537234e3536695363afa7be1e4ac8aab4117"
+            }
+        }
+    }
+}
