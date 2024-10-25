@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Small test run of CADET-Core verification simulations; ",
+  "Output repo branch": "2024-10-25_09-25-00_main_5030418",
+  "Output repo commit hash": "8eaf262dbd29c458154ec5d663f74fd52061a3b6",
+  "Project repo commit hash": "5030418aac222b9a66a7e066efe67c08d8d06069",
+  "Project repo folder name": "CADET-Verification",
+  "Project repo remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\cadet-verification\\\\src\\\\test_cadet_core\\\\verify_cadet-core.py']",
+  "Tags": "",
+  "Options hash": null
+}
