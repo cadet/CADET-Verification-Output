@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Reduced run to verify CADET-Core v5.0.3 release; ",
+  "Output repo branch": "2024-12-12_15-38-58_main_6ed1238",
+  "Output repo commit hash": "511cb92244824b9d007e375b158e1fc702f9a4cf",
+  "Project repo commit hash": "6ed123896c1b6d2912fce034254bbecbacb6f642",
+  "Project repo folder name": "cadet-verification",
+  "Project repo remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\cadet-verification\\\\src\\\\test_cadet_core\\\\verify_cadet-core.py']",
+  "Tags": "",
+  "Options hash": null
+}
