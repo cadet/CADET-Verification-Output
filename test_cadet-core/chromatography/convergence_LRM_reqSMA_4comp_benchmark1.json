@@ -1,0 +1,100 @@
+{
+    "meta": {
+        "source": "CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "info": "CADET-Reference convergence data for the CADET-Database model configuration: LRM_reqSMA_4comp_benchmark1 whose source is CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "name": "convergence_LRM_reqSMA_4comp_benchmark1",
+        "cadet_commit_last_run": "c3fa773f753a8442a16275f48ca32136d1094e78"
+    },
+    "convergence": {
+        "FV": {
+            "outlet": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    7.711250242116435,
+                    2.2635396161275096
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.7683842298164778
+                ],
+                "$L^1$ error": [
+                    225.93868732774268,
+                    63.43352898585099
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.8326138128695026
+                ],
+                "Sim. time": [
+                    0.31242790000000004,
+                    1.0923768
+                ],
+                "Min. value": [
+                    -1.1312443732339531e-07,
+                    -1.2744096770002365e-07
+                ],
+                "DoF": [
+                    68.0,
+                    132.0
+                ],
+                "Axial DoF": [
+                    32.0,
+                    64.0
+                ],
+                "cadet_commit": "c3fa773f753a8442a16275f48ca32136d1094e78"
+            }
+        },
+        "DG_P3": {
+            "outlet": {
+                "$N_d$": [
+                    "3",
+                    "3"
+                ],
+                "$N_e^z$": [
+                    4.0,
+                    8.0
+                ],
+                "Max. error": [
+                    0.659951295488014,
+                    0.09836135538208168
+                ],
+                "Max. EOC": [
+                    0.0,
+                    2.746196037300347
+                ],
+                "$L^1$ error": [
+                    49.17246114617408,
+                    8.60667697108019
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    2.514322338541397
+                ],
+                "Sim. time": [
+                    2.1961232,
+                    5.9732798
+                ],
+                "Min. value": [
+                    -0.01832303994904778,
+                    -0.003905853130965853
+                ],
+                "DoF": [
+                    132.0,
+                    260.0
+                ],
+                "Axial DoF": [
+                    64.0,
+                    128.0
+                ],
+                "cadet_commit": "c3fa773f753a8442a16275f48ca32136d1094e78"
+            }
+        }
+    }
+}

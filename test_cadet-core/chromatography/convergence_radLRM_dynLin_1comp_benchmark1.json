@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "source": "CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "info": "CADET-Reference convergence data for the CADET-Database model configuration: radLRM_dynLin_1comp_benchmark1 whose source is CADET-Reference convergence data https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/cadet-reference_data",
+        "name": "convergence_radLRM_dynLin_1comp_benchmark1",
+        "cadet_commit_last_run": "c3fa773f753a8442a16275f48ca32136d1094e78"
+    },
+    "convergence": {
+        "FV": {
+            "outlet": {
+                "$N_d$": [
+                    "0",
+                    "0"
+                ],
+                "$N_e^z$": [
+                    8.0,
+                    16.0
+                ],
+                "Max. error": [
+                    0.20027216930066294,
+                    0.09754015378238767
+                ],
+                "Max. EOC": [
+                    0.0,
+                    1.0378937997968514
+                ],
+                "$L^1$ error": [
+                    10.96665770048925,
+                    4.684792007537016
+                ],
+                "$L^1$ EOC": [
+                    0.0,
+                    1.2270670011660862
+                ],
+                "Sim. time": [
+                    0.011536300000000001,
+                    0.0286871
+                ],
+                "Min. value": [
+                    0.0,
+                    0.0
+                ],
+                "DoF": [
+                    17.0,
+                    33.0
+                ],
+                "Axial DoF": [
+                    8.0,
+                    16.0
+                ],
+                "cadet_commit": "c3fa773f753a8442a16275f48ca32136d1094e78"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Convergence in axial direction": {
+        "Ncol": [
+            20,
+            40,
+            80
+        ],
+        "EOC": [
+            0.7570365635192271,
+            1.6803734853912906
+        ]
+    },
+    "Convergence in internal coordinate": {
+        "Nx": [
+            22,
+            42,
+            82
+        ],
+        "EOC": [
+            1.3907438100878133,
+            2.081482241988203
+        ]
+    }
+}
