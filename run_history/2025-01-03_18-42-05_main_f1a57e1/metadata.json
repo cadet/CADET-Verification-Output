@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Convergence test for the FV-discretized linear 2DGRM with 3 zones to be used in Rao et al. (2025); ",
+  "Output repo branch": "2025-01-03_18-42-05_main_f1a57e1",
+  "Output repo commit hash": "9925020798634c32c42b3147541daf08e6e24d88",
+  "Project repo commit hash": "f1a57e1e18de7f34258d78054d27f06c8efc0e04",
+  "Project repo folder name": "cadet-verification",
+  "Project repo remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\cadet-verification\\\\src\\\\test_cadet_core\\\\2025_rao_et_al_2dgrm.py']",
+  "Tags": "",
+  "Options hash": null
+}
