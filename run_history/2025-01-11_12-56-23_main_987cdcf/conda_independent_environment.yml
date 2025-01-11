@@ -1,0 +1,16 @@
+name: verify
+channels:
+  - conda-forge
+  - anaconda-fusion
+  - defaults
+dependencies:
+  - cadet
+  - pip
+  - python=3.12
+  - conda
+  - ipywidgets
+  - ca-certificates
+  - certifi
+  - openssl
+  - matplotlib
+prefix: C:\Users\jmbr\.julia\conda\3\x86_64\envs\verify
