@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Convergence test for the linear systems in Frandsen et al. (2025b); ",
+  "Output repo branch": "2025-01-11_12-56-23_main_987cdcf",
+  "Output repo commit hash": "bd97f62614c60d6d87dfc3f354141fec9595da87",
+  "Project repo commit hash": "987cdcf0a5043f22369573bb08ee9ea43bda6e7e",
+  "Project repo folder name": "cadet-verification",
+  "Project repo remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\cadet-verification\\\\src\\\\test_cadet_core\\\\2025_frandsen_et_al_continuouschrom.py']",
+  "Tags": "",
+  "Options hash": null
+}
