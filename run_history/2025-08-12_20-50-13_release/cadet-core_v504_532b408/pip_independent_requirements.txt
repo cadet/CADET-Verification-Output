@@ -1,0 +1,11 @@
+Brotli==1.1.0
+CADET-Process==0.11.0
+CADET-RDM==0.1.8
+colorama==0.4.6
+h2==4.2.0
+keyrings.alt==5.0.2
+mamba==1.5.12
+pip==25.0.1
+PySocks==1.7.1
+pytest==8.4.1
+wheel==0.45.1
