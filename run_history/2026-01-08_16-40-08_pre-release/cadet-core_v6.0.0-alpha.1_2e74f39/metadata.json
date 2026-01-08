@@ -1,0 +1,13 @@
+{
+  "output_repo_commit_message": "CADET-Core verification via workflow_dispatch on 2026-01-08; ",
+  "output_repo_branch": "2026-01-08_16-40-08_pre-release/cadet-core_v6.0.0-alpha.1_2e74f39",
+  "output_repo_commit_hash": "2b8824f2764462612a00ddc7272376bc5f2ddc7d",
+  "project_repo_commit_hash": "2e74f3949706dcaba913ef40aff9ea2aedb39dac",
+  "project_repo_folder_name": "cadet-verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "python_sys_args": "['/opt/conda/bin/pytest', '-s', '--branch-name=pre-release/cadet-core_v6.0.0-alpha.1', '--small-test=false', '--rdm-debug-mode=false', '--rdm-push=true', '--commit-message=\"verify_pre-release_v6.0.0-alpha.1\"', 'src/verify_cadet-core.py', '--commit-message=CADET-Core verification via workflow_dispatch on 2026-01-08']",
+  "tags": "",
+  "options_hash": null
+}
