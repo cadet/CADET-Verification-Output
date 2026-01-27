@@ -1,0 +1,63 @@
+Comparing directories:
+  Directory 1: C:\Users\jmbr\software\CADET-Verification\output\test_cadet-core\featurePerformance
+  Directory 2: C:\Users\jmbr\software\CADET-Verification\output\test_cadet-core\masterPerformance
+============================================================
+Found 8 convergence JSON files in directory 1
+Found 8 convergence JSON files in directory 2
+
+============================================================
+CONVERGENCE FILES EXISTING IN ONLY ONE DIRECTORY:
+============================================================
+  No files exist in only one directory.
+
+============================================================
+COMPARING COMMON FILES:
+============================================================
+
+Comparing: convergence_GRM_4parTypeLin_4comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [-4.949811406311184, -11.85744183183554, -3.934503833347886]
+Sim. time percentage differences for DG_P2parP2.outlet: [0.9273880370543615, -12.080391863128787, -3.2422413139579422]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_GRM_dynLin_1comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [51.938826728678634, 5.5407996974799, -0.5439644633873479, 13.775723113613877, 58.03723842407887, 19.392093010625917, 13.098352763137289]
+Sim. time percentage differences for DG_P3parP3.outlet: [-6.625384325094408, -1.8955228692233694, -6.015863057619876, 15.644535069763565]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_GRM_reqSMA_4comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [-4.910921708946188, -14.767152323725934, 34.21700969540707, -4.914136209887444, -16.789109599623334]
+Sim. time percentage differences for DG_P3parP3.outlet: [1.6320722481131769, 3.99713933531852, 10.642649147669148, 5.880282969616332]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_GRMsd_dynLin_1comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [23.969237927117973, 27.832467998283068, 4.213731445165756, 0.4916766508321433, -27.08789804726683, 22.329439357136312, 8.187212943444584]
+Sim. time percentage differences for DG_P3parP3.outlet: [0.8895485184498165, -0.5721006995763154, -12.435056168386744, 16.180916306673726]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_LRMP_dynLin_1comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [1.6583410108380108, -13.70809750880164, -10.156093626121839, -4.673940849648673, -4.4940343214633405, 4.048026439489319, 5.288701533620433]
+Sim. time percentage differences for DG_P3.outlet: [-0.12619587646445918, -1.3851302197002786, 3.2510681237520704, 0.35239600824845463, -3.3647872347539916, 3.927394016812798, 1.4259877964205763, -8.228416593829392]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_LRMP_reqSMA_4comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [-7.172740633695748, -8.415399426018471, -5.170270607214008, -7.528299251766442, 16.565757031760608]
+Sim. time percentage differences for DG_P3.outlet: [-1.343465802077171, -0.31163255757455965, 4.111595865491294, -7.612836446473873, -17.580692674897108]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_LRM_dynLin_1comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [-0.8048810175887147, 3.824653695920435, 29.88572952749715, 110.60602677002144, 34.39704934457915, 2.404228888363999, 37.91117559383418]
+Sim. time percentage differences for DG_P3.outlet: [-10.08088012493299, -13.839973455312496, -8.227865725463996, 1.8698810750397268, -5.607236077428287, -5.47907681492144, -6.25556752381414]
+✓ Files match (excluding Sim. time)
+
+Comparing: convergence_LRM_reqSMA_4comp_benchmark1.json
+----------------------------------------
+Sim. time percentage differences for FV.outlet: [0.04355133045305907, 1.1376013840961592, 8.878087067439726, -16.07722164506387, -16.250286741055643]
+Sim. time percentage differences for DG_P3.outlet: [-1.50138211372305, -6.6199871885004145, 0.24754885824797504, 6.207043228669167, 8.227579668885786]
+✓ Files match (excluding Sim. time)
