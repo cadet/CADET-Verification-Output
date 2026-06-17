@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "CADET-Core verification via workflow_dispatch on 2026-06-16; ",
+  "output_repo_branch": "2026-06-16_22-46-27_feature/langmuir_9f34e3a",
+  "output_repo_commit_hash": "d2ba53fa0836af476088b1668c8219660b44f99b",
+  "project_repo_branch": "feature/langmuir",
+  "project_repo_commit_hash": "9f34e3ad7d575b9bcf05be8a79415303f4cb05e9",
+  "project_repo_directory_name": "cadet-verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "python_sys_args": "['/opt/conda/bin/pytest', '-s', '--small-test=false', '--n-jobs=-1', '--delete-h5-files=true', '--rdm-debug-mode=false', '--branch-name=feature/langmuir', 'src/testMatthias.py', '--commit-message=CADET-Core verification via workflow_dispatch on 2026-06-16']",
+  "tags": "",
+  "options_hash": null
+}
