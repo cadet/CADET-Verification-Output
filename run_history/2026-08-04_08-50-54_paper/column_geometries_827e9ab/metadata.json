@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "CADET-Core verification via workflow_dispatch on 2026-08-04; ",
+  "output_repo_branch": "2026-08-04_08-50-54_paper/column_geometries_827e9ab",
+  "output_repo_commit_hash": "366254d74f3000daf50e403d3849145465ed4bcd",
+  "project_repo_branch": "paper/column_geometries",
+  "project_repo_commit_hash": "827e9ab49e204db4b53a52561e3dc1acb41b739f",
+  "project_repo_directory_name": "cadet-verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "python_sys_args": "['/opt/conda/bin/pytest', '-s', '--branch-name=paper/column_geometries', '--small-test=false', '--rdm-debug-mode=false', '--rdm-push=true', 'scripts/verify_cadet-core.py', '--commit-message=CADET-Core verification via workflow_dispatch on 2026-08-04']",
+  "tags": "",
+  "options_hash": null
+}
