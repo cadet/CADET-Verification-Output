@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Column Geometry verification and validation via workflow_dispatch on 2026-09-16; ",
+  "output_repo_branch": "2026-09-16_17-54-24_paper/column_geometries_3e6f0f1",
+  "output_repo_commit_hash": "191b63a331ad8ee084c75c85ca55f85c4ee3b778",
+  "project_repo_branch": "paper/column_geometries",
+  "project_repo_commit_hash": "3e6f0f1ef3a6d29cab7912fa12d78d54adea5749",
+  "project_repo_directory_name": "cadet-verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "python_sys_args": "['/opt/conda/bin/pytest', '-s', '--branch-name=paper/column_geometries', '--small-test=true', '--rdm-debug-mode=false', '--rdm-push=true', '--delete-h5-files=false', '--run-performance-sma-tests=false', '--run-validation-tests=false', '--run-eoc-tests=false', 'scripts/verify_geometries.py', '--commit-message=Column Geometry verification and validation via workflow_dispatch on 2026-09-16']",
+  "tags": "",
+  "options_hash": null
+}
