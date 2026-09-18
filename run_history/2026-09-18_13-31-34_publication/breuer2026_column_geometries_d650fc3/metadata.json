@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Column Geometry verification and validation via workflow_dispatch on 2026-09-18; ",
+  "output_repo_branch": "2026-09-18_13-31-34_publication/breuer2026_column_geometries_d650fc3",
+  "output_repo_commit_hash": "5c059090553878ff74a9640f761bfa8339d81056",
+  "project_repo_branch": "publication/breuer2026_column_geometries",
+  "project_repo_commit_hash": "d650fc370268474dee34d5000dead6fd3db89f75",
+  "project_repo_directory_name": "cadet-verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git"
+  ],
+  "python_sys_args": "['/opt/conda/bin/pytest', '-s', '--branch-name=publication/breuer2026_column_geometries', '--small-test=false', '--rdm-debug-mode=false', '--rdm-push=true', '--delete-h5-files=false', '--run-validation-tests=false', '--run-eoc-tests=false', '--column-geometries=AXIAL_FLOW_CYLINDER', 'scripts/verify_geometries.py', '--commit-message=Column Geometry verification and validation via workflow_dispatch on 2026-09-18']",
+  "tags": "",
+  "options_hash": null
+}
