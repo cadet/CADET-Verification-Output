@@ -1,9 +1,0 @@
-name: base
-channels:
-  - conda-forge
-dependencies:
-  - python=3.12
-  - conda[version='>=24.11.3']
-  - mamba[version='>=1.5.12']
-  - pip
-prefix: /opt/conda
