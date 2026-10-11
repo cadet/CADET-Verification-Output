@@ -1,0 +1,16 @@
+{
+  "output_repo_commit_message": "SMA LRMP performance benchmark, all geometries and methods, CADET-Core v6.0.0a5 34bc4f48; ",
+  "output_repo_branch": "2026-10-11_02-30-18_publication/breuer2026_column_geometries_0085b54",
+  "output_repo_commit_hash": "6da09a915c63c4a966c38c28e0525cc8e99c74da",
+  "project_repo_branch": "publication/breuer2026_column_geometries",
+  "project_repo_commit_hash": "0085b5443f1516d8c2e5f0881592c726edb4ff1a",
+  "project_repo_directory_name": "CADET-Verification",
+  "project_repo_remotes": [
+    "https://github.com/cadet/CADET-Verification.git",
+    "https://github.com/Yuvraj2710/CADET-Verification.git",
+    "https://github.com/MatthiasBur03/CADET-Verification.git"
+  ],
+  "python_sys_args": "['C:\\\\Users\\\\jmbr\\\\anaconda3\\\\envs\\\\verify\\\\Lib\\\\site-packages\\\\pytest\\\\__main__.py', '-s', '-q', 'scripts/verify_geometries.py', '--branch-name=publication/breuer2026_column_geometries', '--rdm-debug-mode=false', '--run-performance-sma-tests=true', '--sma-particle-resolutions=HOMOGENEOUS_PARTICLE', '--n-reruns=3', '--commit-message=SMA LRMP performance benchmark, all geometries and methods, CADET-Core v6.0.0a5 34bc4f48']",
+  "tags": "",
+  "options_hash": null
+}
